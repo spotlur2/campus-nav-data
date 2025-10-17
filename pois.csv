@@ -1,0 +1,9 @@
+id,type,name,description,openHour,closedHour,open,accessible,latitude,longitude
+BLDG-A,building,Science Hall,Main science building,800,2100,true,true,40.712500,-74.005700
+BLDG-B,building,Library,Central library,800,2200,true,true,40.712900,-74.006100
+BLDG-C,building,Admin Building,Student services,900,1700,true,true,40.713200,-74.005900
+CAF-1,dining,North Cafe,Student dining,700,2000,true,true,40.712700,-74.006300
+CAF-2,dining,South Cafe,Coffee and snacks,700,2000,true,true,40.713000,-74.006500
+LAB-1,lab,Physics Lab,Physics experiments,800,1800,true,true,40.712600,-74.005500
+GYM,Gym,Gymnasium,Campus gym,600,2200,true,true,40.712800,-74.005400
+AUD,Auditorium,Main Auditorium,Events hall,900,2100,true,true,40.713100,-74.005600
