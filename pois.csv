@@ -1,5 +1,5 @@
 id,type,name,description,hours,open,accessible,latitude,longitude
-ADMIN-G,garage,Administration Drive Garage,Parking Garage,,true,true,39.252050889810846,-76.71274327411363
+ADMIN-G,garage,Administration Drive Garage,"Zone E and Visitor Parking Garage",,true,true,39.252050889810846,-76.71274327411363
 RAC,building,Retriever Activities Center,"UMBC Recreation promotes health and well-being within our diverse community by offering a variety of facilities, programs, and equipment while welcoming and inspiring inquisitive minds.We provide a holistic environment through Fitness & Wellness, Club Sports, Intramurals, Physical Education, and Aquatics to foster a balanced and healthy lifestyle.","{\"Mon\":{\"open\":7,\"close\":22},\"Tue\":{\"open\":7,\"close\":22},\"Wed\":{\"open\":7,\"close\":22},\"Thu\":{\"open\":7,\"close\":22},\"Fri\":{\"open\":7,\"close\":21},\"Sat\":{\"open\":10,\"close\":18},\"Sun\":{\"open\":12,\"close\":19}}",true,true,39.25298969753522,-76.71251796855269
 ADMIN,building,Administration Building,Administration Building,,true,true,39.25311727868416,-76.71352174016761
 SHERH,building,Sherman Hall,Academic Building,,true,true,39.25360604805402,-76.71361611188388
@@ -15,28 +15,109 @@ PAHB,building,Performing Arts and Humanities Building,"Opened in 2012, the Perfo
 LH1,building,Lecture Hall 1,Academic Building,,true,true,39.254812055317906 -76.71179941167598
 TC,recreation,Tennis Courts,Tennis Courts,"{\"Mon\":{\"open\":7,\"close\":22},\"Tue\":{\"open\":7,\"close\":22},\"Wed\":{\"open\":7,\"close\":22},\"Thu\":{\"open\":7,\"close\":22},\"Fri\":{\"open\":7,\"close\":21},\"Sat\":{\"open\":10,\"close\":18},\"Sun\":{\"open\":12,\"close\":19}}",true,true,39.25348150996228,-76.71144488031509
 COMM,building,The Commons,"The Commons is the hub of student life. Situated in the middle of campus, it is the place to go before, between and after classes. Hosting major social, cultural and recreational activities, The Commons fosters community among students, faculty, and staff.","{\"Mon\":{\"open\":730,\"close\":23},\"Tue\":{\"open\":730,\"close\":23},\"Wed\":{\"open\":730,\"close\":23},\"Thu\":{\"open\":730,\"close\":23},\"Fri\":{\"open\":730,\"close\":24},\"Sat\":{\"open\":8,\"close\":24},\"Sun\":{\"open\":10,\"close\":21}}",true,true,39.25507350467137,-76.7108673316828
-AOK,building,Albin O. Kuhn Library & Gallery,"The Albin O. Kuhn Library & Gallery is the intellectual heart of UMBC, providing access to a wealth of information resources and services to support the research and learning needs of the campus community. The library features a diverse collection of books, journals, and digital resources, as well as study spaces, computer labs, and collaborative work areas.",,true,true,39.25507350467137,-76.7108673316828
-ILSB,building,Interdisciplinary Life Sciences Building,Academic Building,"{\"Mon\":{\"open\":730,\"close\":22},\"Tue\":{\"open\":730,\"close\":22},\"Wed\":{\"open\":730,\"close\":22},\"Thu\":{\"open\":730,\"close\":22},\"Fri\":{\"open\":730,\"close\":21},\"Sat\":{\"open\":0,\"close\":0},\"Sun\":{\"open\":0,\"close\":0}}",true,true,39.25398264729527,-76.71124601042845
+AOK,building,Albin O. Kuhn Library & Gallery,"The Albin O. Kuhn Library & Gallery is the intellectual heart of UMBC, providing access to a wealth of information resources and services to support the research and learning needs of the campus community. The library features a diverse collection of books, journals, and digital resources, as well as study spaces, computer labs, and collaborative work areas.","{\"Mon\":{\"open\":8,\"close\":22},\"Tue\":{\"open\":8,\"close\":22},\"Wed\":{\"open\":8,\"close\":22},\"Thu\":{\"open\":8,\"close\":22},\"Fri\":{\"open\":8,\"close\":17},\"Sat\":{\"open\":10,\"close\":17},\"Sun\":{\"open\":12,\"close\":22}}",true,true,39.25507350467137,-76.7108673316828
+ILSB,building,Interdisciplinary Life Sciences Building,"The Interdisciplinary Life Sciences Building (ILSB) is a center for interdisciplinary research, active/applied learning, innovation, and inspiration. The ILSB provides many opportunities for integrating research, teaching, and learning across departments and colleges in support of our mission of student success and expanding research in areas of strategic importance to the state.","{\"Mon\":{\"open\":730,\"close\":22},\"Tue\":{\"open\":730,\"close\":22},\"Wed\":{\"open\":730,\"close\":22},\"Thu\":{\"open\":730,\"close\":22},\"Fri\":{\"open\":730,\"close\":21},\"Sat\":{\"open\":0,\"close\":0},\"Sun\":{\"open\":0,\"close\":0}}",true,true,39.25398264729527,-76.71124601042845
 PHYS,building,Physics Building,Academic Building,,true,true,39.254518575311074,-76.70966433540121
 PUB,building,Public Policy Building,Academic Building,,true,true,39.2552348492078,-76.70909975813964
-COMM-G,garage,Commons Drive Garage,Parking Garage,,true,true,39.253459351003,-76.70958436380637
+COMM-G,garage,Commons Drive Garage,"Zone A and Visitor Parking Garage:,,true,true,39.253459351003,-76.70958436380637
 CEIA,building,Chesapeake Employers Insurance Arena,"The Chesapeake Employers Insurance Arena, located on the University of Maryland, Baltimore County (UMBC) campus, is a state-of-the-art facility that hosts a variety of events including concerts, sporting events, and community gatherings. With a seating capacity of over 5,000, the arena provides a versatile space for both large and small events, featuring modern amenities and technology to enhance the experience for attendees.",,true,true,39.25241142791414,-76.70740675906181
 STAD,recreation, Stadium Complex,"The UMBC Stadium Complex is a premier athletic facility that serves as the home for the university's soccer and lacrosse teams. The complex features a well-maintained playing field, spectator seating, and modern amenities to accommodate athletes and fans alike. It is designed to provide an excellent environment for both competitive sports and community events.",,true,true,39.25056086116984,-76.70747770559711
 BASE,recreation,Baseball Field,"The UMBC Baseball Field is a dedicated facility for the university's baseball team, offering a well-kept playing surface, dugouts, and spectator seating. The field is designed to provide an optimal environment for both players and fans, hosting various games and events throughout the baseball season.",,true,true,39.24968755693821,-76.70858739183616
 SOFT,recreation,Softball Field,"The UMBC Softball Field is a specialized facility for the university's softball team, featuring a well-maintained playing surface, dugouts, and spectator seating. The field is designed to provide an excellent environment for both players and fans, hosting various games and events throughout the softball season.",,true,true,39.24921946139316,-76.70960685968176
-ATHL,recreation,Athletic Fields,"The UMBC Athletic Fields are versatile outdoor spaces that accommodate a variety of sports and recreational activities. These fields are designed to support intramural sports, club sports, and general fitness activities for students, faculty, and staff. With well-maintained turf and ample space, the athletic fields provide an ideal setting for both organized sports and casual play.",,true,true,39.24840271024315,-76.70793342078734
+ATHL,recreation,Athletic Field,"The UMBC Athletic Field is a versatile outdoor space that accommodates a variety of sports and recreational activities. These fields are designed to support intramural sports, club sports, and general fitness activities for students, faculty, and staff. With well-maintained turf and ample space, the athletic fields provide an ideal setting for both organized sports and casual play.",,true,true,39.24840271024315,-76.70793342078734
 RSP,recreation,Retriever Soccer Park,"The Retriever Soccer Park is a dedicated facility for the UMBC men's and women's soccer teams, featuring a natural grass playing surface, spectator seating, and modern amenities. The park is designed to provide an excellent environment for both competitive matches and community events.",,true,true,39.25147850936595,-76.70499610332828
 WARE,building,Warehouse Building,Storage and Logistics Building,,true,true,39.253287498908925,-76.70532116519028
 FMGMT,building,Facilities Management Building,Facilities Management Offices,,true,true,39.25278100347424,-76.7045452870069
 TRC,building,Technology Research Center,Research and Development Building,,true,true,39.25519468338403,-76.70241014193984
-PTAP,building,Patapsco Hall,Student Residence Hall,,true,true,39.255094745865534,-76.70673651253317
+PTAP,building,Patapsco Hall,Student Housing,,true,true,39.255094745865534,-76.70673651253317
 TGRIT,building,True Grit's,Dining Hall,,true,true,39.2557967453607,-76.70774502307351
-SUS,building,Susquehanna Hall,Student Residence Hall,,true,true,39.25567213057881,-76.70854968573869
+SUS,building,Susquehanna Hall,Student Housing,,true,true,39.25567213057881,-76.70854968573869
 CFWB,building,The Center for Well-Being,"The Center offers students opportunities to obtain access to quality health care; participate in practices that heal and lift up the community; investigate and understand personal and shared identity; get connected to resources for daily living; connect with other students, and more.","{\"Mon\":{\"open\":830,\"close\":17},\"Tue\":{\"open\":830,\"close\":17},\"Wed\":{\"open\":830,\"close\":17},\"Thu\":{\"open\":830,\"close\":17},\"Fri\":{\"open\":830,\"close\":17},\"Sat\":{\"open\":0,\"close\":0},\"Sun\":{\"open\":0,\"close\":0}}",true,true,39.25609166724746,-76.70892984753543
-POT,building,Potomac Hall,Student Residence Hall,,true,true,39.255927184773846,-76.70668047031509
+POT,building,Potomac Hall,Student Housing,,true,true,39.255927184773846,-76.70668047031509
 RECC,recreation,Rec Court,Outdoor Basketball Court,,true,true,39.2566172837947,-76.70740689483773
-CHES,building,Chesapeake Hall,Student Residence Hall,,true,true,39.256917671988965,-76.70876919257833
-HARB,building,Harbor Hall,Student Residence Hall,,true,true,39.25750796596999,-76.70855266843412
+CHES,building,Chesapeake Hall,Student Housing,,true,true,39.256917671988965,-76.70876919257833
+HARB,building,Harbor Hall,Student Housing,,true,true,39.25750796596999,-76.70855266843412
 SATE,building,Satellite Plant,Utility Building,,true,true,39.25698752952413,-76.706978357469
 PRES,building,Preeschool Center,Childcare Facility,"{\"Mon\":{\"open\":7,\"close\":18},\"Tue\":{\"open\":7,\"close\":18},\"Wed\":{\"open\":7,\"close\":18},\"Thu\":{\"open\":7,\"close\":18},\"Fri\":{\"open\":7,\"close\":18},\"Sat\":{\"open\":0,\"close\":0},\"Sun\":{\"open\":0,\"close\":0}}",true,true,39.25804712501543,-76.7080962781935
-ERIC,building,Erickson Hall, Student Residence Hall,,true,true,39.257307786961505,-76.70970675659443
+ERIC,building,Erickson Hall, Student Housing,,true,true,39.257307786961505,-76.70970675659443
+DPC,building,Deep Creek,Student Housing,,true,true,39.25787113089909,-76.70885828015635
+BRE,building,Breton,Student Housing,,true,true,39.258124607730046,-76.70869989252392
+SDL,building,Sideline,Student Housing,,true,true,39.25842990287258,-76.70878035879045
+POC,building,Pocomoke,Student Housing,,true,true,39.25839251986533,-76.70917464349637
+MAN,building,Manokin,Student Housing,,true,true,39.25865420049745,-76.70922292325629
+PTX,building,Patuxent,Student Housing,,true,true,39.25825337182983,-76.70960647912668
+CAS,building,Casselman,Student Housing,,true,true,39.25807684034255,-76.70911295269204
+ELK,building,Elk,Student Housing,,true,true,39.25783800291695,-76.7093355760294
+PTX,building,Patuxent,Student Housing,,true,true,39.25824921815287,-76.70958233924672
+WIC,building,Wicomico,Student Housing,,true,true,39.25799376654768,-76.70983714909069
+SAS,building,Sassafras,Student Housing,,true,true,39.25810176246183,-76.71018851845449
+ANT,building,Antietam,Student Housing,,true,true,39.257777774219186,-76.71013487430473
+CHI,building,Chincoteague,Student Housing,,true,true,39.25756801180276,-76.71045405716191
+MON,building,Monocacy,Student Housing,,true,true,39.25800191150286,-76.71083331497351
+TUC,building,Tuckahoe,Student Housing,,true,true,39.25761168203659,-76.7109194369245
+GUN,building,Gunpowder,Student Housing,,true,true,39.25784631393808,-76.71117461307558
+NAN,building,Nanticoke,Student Housing,,true,true,39.2579846229016,-76.71155737730223
+CHS,building,Chester,Student Housing,,true,true,39.25892067104913,-76.71177427711164
+WYE,building,Wye,Student Housing,,true,true,39.25866381475782,-76.71247920122903
+CHO,building,Choptank,Student Housing,,true,true,39.25878236393226,-76.71308843428976
+TAN,building,Tangier,Student Housing,,true,true,39.25889390683232,-76.71277902161398
+MAG,building,Magothy,Student Housing,,true,true,39.25904703230901,-76.71247918963644
+ACC,building,Apartment Community Center,Student Center,,true,true,39.25822459638428,-76.71207090779532
+WALK-G,garage,Walker Avenue Garage,"Zones C, E, and Visitor Parking Garage",,true,true,39.25733967577822,-76.71237861482834
+GREE,building,Greenhouse,Utility Building,,true,true,39.25817457072955,-76.71355878673725
+CP,building,Center Plant,Utility Building,,true,true,39.257367657601435,-76.71413640335415
+UMBCPD,building,UMBC Campus Police,Campus Police Station,,true,true,39.2549594866431,-76.71321863565966
+WALKE,building,Walker Avenue Apartments East,Student Housing,,true,true,39.25957730824087,-76.71398514020748
+WALKEW,building,Walker Avenue Apartments West,Student Housing,,true,true,39.25882711893365,-76.7146381391937
+AH,building,Alumni House,Event Venue,,true,true,39.258230287820936,-76.71766660476757
+NAVY,building,Navy ROTC Building,Military Training Facility,,true,true,39.25852987077047,-76.71715072736698
+ARMY,building,Army ROTC Building,Military Training Facility,,true,true,39.25891935196441,-76.71705788657616
+BCPD,building,Baltimore County Police, Baltimore County Police Station,,true,true,39.2598801948872,-76.7163208137363
+900,building,900 Walker,Office Building,,true,true,39.26022494122811,-76.71518087491006
+LOT1,parking,Lot 1,"Zones A and D Parking Lot",,true,true,39.25350888249007,-76.70850292273148
+LOT2,parking,Lot 2,"Zone E Parking Lot",,true,true,39.25429432478357,-76.70889844576566
+LOT3,parking,Lot 3,"Zone A Parking Lot",,true,true,39.253973233085304,-76.70746307991577
+LOT4,parking,Lot 4,"Zone A Parking Lot",,true,true,39.25482782773867,-76.70827964359925
+LOT5,parking,Lot 5,"Zone C Parking Lot",,true,true,39.25772810832697,-76.70802358617365
+Lot6,parking,Lot 6,"Zone C Parking Lot",,true,true,39.25874588231905,-76.71139193648042
+LOT7,parking,Lot 7,"Visitor Parking Lot",,true,true,39.25712546791812,-76.71060763258053
+LOT8,parking,Lot 8,"Zones D, E and Event Parking Lot",,true,true,39.2561151240322,-76.71562438201605
+LOT9,parking,Lot 9,"Visitor Parking Lot",,true,true,39.254453010943806,-76.71508153623385
+LOT10,parking,Lot 10,"Parking Lot",,true,true,39.25774945357812,-76.71375701403485
+LOT11,parking,Lot 11,"Parking Lot",,true,true,39.25621233852476,-76.70815496697239
+LOT12,parking,Lot 12,"Parking Lot",,true,true,39.25641587432619,-76.70681118027422
+SLOT,parking,Stadium Lot,"Zone A and Event Parking Lot",,true,true,39.253469421686596,-76.70605533130848
+LOT20,parking,Lot 20,"Zone B Parking Lot",,true,true,39.2608297948732,-76.71436955222742
+LOT21,parking,Lot 21,"Zone B Parking Lot",,true,true,39.25928061307836,-76.7150822753429
+LOT22,parking,Lot 22,"Zone A Parking Lot",,true,true,39.25739636783017,-76.7179582584592
+LOT23,parking,Lot 23,"Zone C Parking Lot",,true,true,39.25481572114567,-76.70522967468509
+LOT24,parking,Lot 24,"Zone D Parking Lot",,true,true,39.254277278232266,-76.70423129796498
+LOT25,parking,Lot 25,"Zones A,C,D,E Parking Lot",,true,true,39.254646723523116,-76.70283922922277
+LOT26,parking,Lot 26,"Parking Lot",,true,true,39.25262678861871,-76.70484493718644
+LOT27,parking,Lot 27,"Zone B Parking Lot",,true,true,39.252273696860556,-76.70625577907481
+LOT28,parking,Lot 28,"Zone D Parking Lot",,true,true,39.25139719081476,-76.70709799266281
+LOT29,parking,Lot 29,"Zone A Parking Lot",,true,true,39.25845892861631,-76.71615977632929
+LOT30,parking,Lot 30,"Zone D Parking Lot",,true,true,39.25836982624469,-76.71721817770758
+LOT31,parking,Lot 31,"Zones A,D,E Parking Lot",,true,true,39.259851677140674,-76.71462441699336
+SA1,building,Smoking Area,Designated Smoking Area,,true,true,39.25404106037799,-76.70826568937431
+SA2,building,Smoking Area,Designated Smoking Area,,true,true,39.25679407430081,-76.71421913183775
+RF,field,Rec Field,Open Field Area,,true,true,39.25787448864041,-76.71650791554222
+BS1,shuttle,Bus Stop,"UMBC Shuttle Bus Stop",,true,true,39.25222152417099,-76.71213390257027
+BS2,shuttle,Bus Stop,"MTA and UMBC Shuttle Bus Stop",,true,true,39.252917460238386,-76.71464572267814
+BS3,shuttle,Bus Stop,"MTA and UMBC Shuttle Bus Stop",,true,true,39.25249452329146,-76.70892699637682
+BS4,shuttle,Bus Stop,"MTA and UMBC Shuttle Bus Stop",,true,true,39.253657715568046,-76.70936004465888
+BS5,shuttle,Bus Stop,"MTA and UMBC Shuttle Bus Stop",,true,true,39.254892010800994,-76.70761246236725
+BS6,shuttle,Bus Stop,"MTA and UMBC Shuttle Bus Stop",,true,true,39.254319247855086,-76.70566654245431
+BS7,shuttle,Bus Stop,"MTA and UMBC Shuttle Bus Stop",,true,true,39.25274254001333,-76.7028361726639
+BS8,shuttle,Bus Stop,"UMBC Shuttle Bus Stop",,true,true,39.2529275911756,-76.70287789804188
+BS9,shuttle,Bus Stop,"MTA and UMBC Shuttle Bus Stop",,true,true,39.25439583611055,-76.70535512267088
+BS10,shuttle,Bus Stop,"UMBC Shuttle Bus Stop",,true,true,39.258467479374545,-76.70805234093515
+BS11,shuttle,Bus Stop,"UMBC Shuttle Bus Stop",,true,true,39.25897010793352,-76.71354762559959
+BS12,shuttle,Bus Stop,"MTA and UMBC Shuttle Bus Stop",,true,true,39.259865705502804,-76.71526884677995
+BS13,shuttle,Bus Stop,"UMBC Shuttle Bus Stop",,true,true,39.256389697239136,-76.71622851458847
+JBSP,park,Joseph Beuys Sculpture Park,"Outdoor Sculpture Park featuring works by Joseph Beuys and other artists",,true,true,39.2523541797993,-76.70978121992034
+CARD,garden,Community Garden,Community Garden,,true,true,39.256719352956154,-76.71419257880822
+POND,pond,Library Pond,"Scenic pond located near the Albin O. Kuhn Library & Gallery",,true,true,39.25584502235394,-76.71222134304104
+QUAD,plaza,The Quad,"Central open space on campus used for events and relaxation",,true,true,39.25418855017102,-76.71158565132436
+UCP,plaza,University Center Plaza,"Outdoor plaza area adjacent to the University Center",,true,true,39.2543969673164,-76.71283371953491
+T2B,building,Tech 2 Building,Research and Development Building,,true,true,39.255651017511305,-76.70290897998996
