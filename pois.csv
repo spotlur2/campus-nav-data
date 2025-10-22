@@ -68,7 +68,9 @@ GREE,building,Greenhouse,Utility Building,,true,true,39.25817457072955,-76.71355
 CP,building,Center Plant,Utility Building,,true,true,39.257367657601435,-76.71413640335415
 UMBCPD,building,UMBC Campus Police,Campus Police Station,,true,true,39.2549594866431,-76.71321863565966
 WALKE,building,Walker Avenue Apartments East,Student Housing,,true,true,39.25957730824087,-76.71398514020748
-WALKEW,building,Walker Avenue Apartments West,Student Housing,,true,true,39.25882711893365,-76.7146381391937
+WALKW,building,Walker Avenue Apartments West,Student Housing,,true,true,39.25882711893365,-76.7146381391937
+WALKO,building,Walker Avenue Apartments Office,Student Housing,,true,true,39.25886134537229,-76.71427175730966
+WALKC,building,Walker Avenue Clubhouse,Student Housing,,true,true,39.25917286774026,-76.71392307015476
 AH,building,Alumni House,Event Venue,,true,true,39.258230287820936,-76.71766660476757
 NAVY,building,Navy ROTC Building,Military Training Facility,,true,true,39.25852987077047,-76.71715072736698
 ARMY,building,Army ROTC Building,Military Training Facility,,true,true,39.25891935196441,-76.71705788657616
