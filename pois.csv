@@ -41,26 +41,26 @@ SATE,building,Satellite Plant,Utility Building,,true,true,39.25698752952413,-76.
 PRES,building,Preeschool Center,Childcare Facility,"{\"Mon\":{\"open\":7,\"close\":18},\"Tue\":{\"open\":7,\"close\":18},\"Wed\":{\"open\":7,\"close\":18},\"Thu\":{\"open\":7,\"close\":18},\"Fri\":{\"open\":7,\"close\":18},\"Sat\":{\"open\":0,\"close\":0},\"Sun\":{\"open\":0,\"close\":0}}",true,true,39.25804712501543,-76.7080962781935
 ERIC,building,Erickson Hall, Student Housing,,true,true,39.257307786961505,-76.70970675659443
 DPC,building,Deep Creek,Student Housing,,true,true,39.25787113089909,-76.70885828015635
-BRE,building,Breton,Student Housing,,true,true,39.258124607730046,-76.70869989252392
-SDL,building,Sideline,Student Housing,,true,true,39.25842990287258,-76.70878035879045
-POC,building,Pocomoke,Student Housing,,true,true,39.25839251986533,-76.70917464349637
-MAN,building,Manokin,Student Housing,,true,true,39.25865420049745,-76.70922292325629
-PTX,building,Patuxent,Student Housing,,true,true,39.25825337182983,-76.70960647912668
-CAS,building,Casselman,Student Housing,,true,true,39.25807684034255,-76.70911295269204
+BRE,building,Breton,Student Housing,,true,false,39.258124607730046,-76.70869989252392
+SDL,building,Sideline,Student Housing,,true,false,39.25842990287258,-76.70878035879045
+POC,building,Pocomoke,Student Housing,,true,false,39.25839251986533,-76.70917464349637
+MAN,building,Manokin,Student Housing,,true,false,39.25865420049745,-76.70922292325629
+PTX,building,Patuxent,Student Housing,,true,false,39.25825337182983,-76.70960647912668
+CAS,building,Casselman,Student Housing,,true,false,39.25807684034255,-76.70911295269204
 ELK,building,Elk,Student Housing,,true,true,39.25783800291695,-76.7093355760294
-PTX,building,Patuxent,Student Housing,,true,true,39.25824921815287,-76.70958233924672
-WIC,building,Wicomico,Student Housing,,true,true,39.25799376654768,-76.70983714909069
-SAS,building,Sassafras,Student Housing,,true,true,39.25810176246183,-76.71018851845449
-ANT,building,Antietam,Student Housing,,true,true,39.257777774219186,-76.71013487430473
+PTX,building,Patuxent,Student Housing,,true,false,39.25824921815287,-76.70958233924672
+WIC,building,Wicomico,Student Housing,,true,false,39.25799376654768,-76.70983714909069
+SAS,building,Sassafras,Student Housing,,true,false,39.25810176246183,-76.71018851845449
+ANT,building,Antietam,Student Housing,,true,false,39.257777774219186,-76.71013487430473
 CHI,building,Chincoteague,Student Housing,,true,true,39.25756801180276,-76.71045405716191
-MON,building,Monocacy,Student Housing,,true,true,39.25800191150286,-76.71083331497351
-TUC,building,Tuckahoe,Student Housing,,true,true,39.25761168203659,-76.7109194369245
-GUN,building,Gunpowder,Student Housing,,true,true,39.25784631393808,-76.71117461307558
-NAN,building,Nanticoke,Student Housing,,true,true,39.2579846229016,-76.71155737730223
+MON,building,Monocacy,Student Housing,,true,false,39.25800191150286,-76.71083331497351
+TUC,building,Tuckahoe,Student Housing,,true,false,39.25761168203659,-76.7109194369245
+GUN,building,Gunpowder,Student Housing,,true,false,39.25784631393808,-76.71117461307558
+NAN,building,Nanticoke,Student Housing,,true,false,39.2579846229016,-76.71155737730223
 CHS,building,Chester,Student Housing,,true,true,39.25892067104913,-76.71177427711164
 WYE,building,Wye,Student Housing,,true,true,39.25866381475782,-76.71247920122903
-CHO,building,Choptank,Student Housing,,true,true,39.25878236393226,-76.71308843428976
-TAN,building,Tangier,Student Housing,,true,true,39.25889390683232,-76.71277902161398
+CHO,building,Choptank,Student Housing,,true,false,39.25878236393226,-76.71308843428976
+TAN,building,Tangier,Student Housing,,true,false,39.25889390683232,-76.71277902161398
 MAG,building,Magothy,Student Housing,,true,true,39.25904703230901,-76.71247918963644
 ACC,building,Apartment Community Center,Student Center,,true,true,39.25822459638428,-76.71207090779532
 WALK-G,garage,Walker Avenue Garage,"Zones C, E, and Visitor Parking Garage",,true,true,39.25733967577822,-76.71237861482834
