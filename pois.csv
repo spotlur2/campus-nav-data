@@ -38,7 +38,7 @@ RECC,recreation,Rec Court,Outdoor Basketball Court,,true,true,39.2566172837947,-
 CHES,building,Chesapeake Hall,Student Housing,,true,true,39.256917671988965,-76.70876919257833
 HARB,building,Harbor Hall,Student Housing,,true,true,39.25750796596999,-76.70855266843412
 SATE,building,Satellite Plant,Utility Building,,true,true,39.25698752952413,-76.706978357469
-PRES,building,Preeschool Center,Childcare Facility,"{\"Mon\":{\"open\":7,\"close\":18},\"Tue\":{\"open\":7,\"close\":18},\"Wed\":{\"open\":7,\"close\":18},\"Thu\":{\"open\":7,\"close\":18},\"Fri\":{\"open\":7,\"close\":18},\"Sat\":{\"open\":0,\"close\":0},\"Sun\":{\"open\":0,\"close\":0}}",true,true,39.25804712501543,-76.7080962781935
+PRES,building,Preschool Center,Childcare Facility,"{\"Mon\":{\"open\":7,\"close\":18},\"Tue\":{\"open\":7,\"close\":18},\"Wed\":{\"open\":7,\"close\":18},\"Thu\":{\"open\":7,\"close\":18},\"Fri\":{\"open\":7,\"close\":18},\"Sat\":{\"open\":0,\"close\":0},\"Sun\":{\"open\":0,\"close\":0}}",true,true,39.25804712501543,-76.7080962781935
 ERIC,building,Erickson Hall, Student Housing,,true,true,39.257307786961505,-76.70970675659443
 DPC,building,Deep Creek,Student Housing,,true,true,39.25787113089909,-76.70885828015635
 BRE,building,Breton,Student Housing,,true,false,39.258124607730046,-76.70869989252392
