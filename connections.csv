@@ -919,6 +919,12 @@ wp649,wp650
 wp650,wp651
 wp651,wp652
 wp653,wp654
+wp654,TAN
+wp654,MAG
+wp654,wp655
+wp655,MAG
+wp655,TAN
+wp657,WALK-G
 wp654,wp655
 wp657,wp658
 wp658,wp665
